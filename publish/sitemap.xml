@@ -938,13 +938,13 @@
     </url>
   
     <url>
-      <loc>https://campestresp-loja.netlify.app/pages/privacidade</loc>
+      <loc>https://campestresp-loja.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://campestresp-loja.netlify.app/pages/sobre-nos</loc>
+      <loc>https://campestresp-loja.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -992,13 +992,13 @@
     </url>
   
     <url>
-      <loc>https://campestresp-loja.netlify.app/admin/index</loc>
+      <loc>https://campestresp-loja.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://campestresp-loja.netlify.app/app/index</loc>
+      <loc>https://campestresp-loja.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
