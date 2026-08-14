@@ -1,26 +1,26 @@
 {
   "domain": "campestresp-loja.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#254f10",
+  "primary_color": "#232641",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "icons_font": "_",
-  "font_family": "_",
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/campestrerio-loja",
-  "logo": "/img/uploads/logo-removebg-preview.png",
+  "logo": "/img/uploads/campestre-sp.png",
   "name": "My Shop",
   "short_name": "My Shop",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/logo-removebg-preview.png",
+  "font_family": "_",
+  "favicon": "/img/uploads/campestre-sp.png",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/uploads/logo-removebg-preview.png",
+  "icon": "/img/uploads/campestre-sp.png",
   "store_id": 51633,
   "description": "Fabricante de Jogos de salão, com mais de 30 anos no mercado, fabricamos Sinuca, totó, ping-pong, carteado, Aero Hockey, Tamancoball.",
-  "large_icon": "/img/uploads/logo-removebg-preview.png"
+  "large_icon": "/img/uploads/campestre-sp.png"
 }
