@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#262a48",
   "theme": {
-    "bootswatch": "cyborg",
-    "custom": "_"
+    "bootswatch": "united",
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/campestrerio-loja",
