@@ -2,66 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://campestresp-loja.netlify.app/toto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://campestresp-loja.netlify.app/ping-pong</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://campestresp-loja.netlify.app/carteado</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://campestresp-loja.netlify.app/damaxadrezgamao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://campestresp-loja.netlify.app/dardo</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://campestresp-loja.netlify.app/acessorios</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://campestresp-loja.netlify.app/aerohockey</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://campestresp-loja.netlify.app/botao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://campestresp-loja.netlify.app/tamancobol</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://campestresp-loja.netlify.app/beer-pong</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://campestresp-loja.netlify.app/sinuca-semi-oficial-260x142-m</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -968,6 +908,66 @@
     </url>
   
     <url>
+      <loc>https://campestresp-loja.netlify.app/toto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://campestresp-loja.netlify.app/ping-pong</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://campestresp-loja.netlify.app/carteado</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://campestresp-loja.netlify.app/damaxadrezgamao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://campestresp-loja.netlify.app/dardo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://campestresp-loja.netlify.app/acessorios</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://campestresp-loja.netlify.app/aerohockey</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://campestresp-loja.netlify.app/botao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://campestresp-loja.netlify.app/tamancobol</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://campestresp-loja.netlify.app/beer-pong</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://campestresp-loja.netlify.app/campestre</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -992,13 +992,13 @@
     </url>
   
     <url>
-      <loc>https://campestresp-loja.netlify.app/pages/privacidade</loc>
+      <loc>https://campestresp-loja.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://campestresp-loja.netlify.app/pages/pagamentos</loc>
+      <loc>https://campestresp-loja.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1034,6 +1034,12 @@
     </url>
   
     <url>
+      <loc>https://campestresp-loja.netlify.app/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://campestresp-loja.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
@@ -1046,13 +1052,13 @@
     </url>
   
     <url>
-      <loc>https://campestresp-loja.netlify.app/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <loc>https://campestresp-loja.netlify.app/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://campestresp-loja.netlify.app/admin/index</loc>
+      <loc>https://campestresp-loja.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
@@ -1061,12 +1067,6 @@
       <loc>https://campestresp-loja.netlify.app/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://campestresp-loja.netlify.app/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
